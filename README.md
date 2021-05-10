@@ -1,6 +1,6 @@
 # RestAPI_Volley
 
-![Alt Text](https://github.com/lethanaxeger/RestAPI_Volley/blob/master/Screen_Recording_20210510-193344_RestAPI%20Volley.mp4)
+![Alt Text](https://github.com/lethanaxeger/RestAPI_Volley/blob/master/Screen_Recording_20210510-193344_RestAPI%20Volley_2.gif)
 
 # Retrofit 
 > Retrofit adalah sebuah library android yang membantu pengembang untuk melakukan request ke sebuah endpoint REST API. Library ini menyederhanakan kode program yang digunakan untuk mengakses REST API.retrofit juga mendukung berbagai macam format authentikasi via http, menambahkan header pada request, menambahkan parameter serta mengirim data berupa image ke server.
